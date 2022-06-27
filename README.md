@@ -16,8 +16,8 @@ Esercitarsi nella gestione di un progetto Laravel. Partendo dall'inizializzazion
     - composer require laravel/ui:^2.4
     - php artisan ui vue --auth
 - 4 Creazione migration
-- 5 Creazione seeder
-- 6 Creazione model
+- 5 Creazione model
+- 6 Creazione seeder
 - 7 Creazione controller resource
 - 8 Impostazione CRUD base
 - 9 Controllo rotte
